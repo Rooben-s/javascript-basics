@@ -5,3 +5,8 @@ if ( answer.toUpperCase() === 'MERCURY' ) {
 } else {
   console.log("Sorry, that's incorrect");
 }
+
+
+
+
+

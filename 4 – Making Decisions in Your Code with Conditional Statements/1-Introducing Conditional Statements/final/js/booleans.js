@@ -11,3 +11,6 @@ if ( correctGuess ) {
 } else {
   console.log(`Sorry. The number was ${number}.`);
 }
+
+
+
